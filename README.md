@@ -7,3 +7,4 @@
 ## Table of Contents
 1. Data Cleaning
 2. Recall and Potentially Affected Count by Each Year
+3. Recall Count and Potentially Affected Count by Manufacturer
